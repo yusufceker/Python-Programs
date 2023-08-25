@@ -1,0 +1,17 @@
+There are lots of python projects in this repo.
+This projects are beginner or intermediate projects.
+
+Programmer: Yusuf Çeker
+
+—Note
+—————— There are games, ai programs, generator programs...
+—————— This programs has coded by 1 person
+—————— In this app we use Tkinter for GUI
+—————— Also In this repo there is opening file programs
+
+
+
+
+
+										Yusuf Çeker
+										    2023
